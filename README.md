@@ -30,3 +30,7 @@ A gitter chatroom has also been created for the workshop related discussions - h
 - Regression
 - Clustering
 - Dimensionality reduction
+
+## Licence
+
+This work is made available under the <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
